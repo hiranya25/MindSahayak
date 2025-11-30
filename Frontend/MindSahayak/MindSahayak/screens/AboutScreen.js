@@ -14,21 +14,21 @@ const AboutScreen = () => {
     },
     {
       id: '2',
-      name: 'Rahul Patel',
+      name: 'Ramraj Nagar ',
       role: 'AI/NLP Engineer',
       bio: 'Developed the sentiment analysis and chatbot conversation models.',
       image: require('../assets/images/team2.jpg')
     },
     {
       id: '3',
-      name: 'Ananya Gupta',
+      name: 'Hirnaya Patil',
       role: 'UX Designer',
       bio: 'Created the calming and accessible interface of MindSahayak.',
       image: require('../assets/images/team3.jpg')
     },
     {
       id: '4',
-      name: 'Vikram Joshi',
+      name: 'Janu ',
       role: 'Mobile Developer',
       bio: 'Built the Android and iOS applications for seamless user experience.',
       image: require('../assets/images/team4.jpg')
